@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Featured Auckland deals",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYkgydRfl6L2unk36SRt1c88IKh-y2IwglGQ&usqp=CAU",
+    "products": [
+      {
+        "productName": "HelloFresh",
+        "description": "HelloFresh Special Offer - Up to $50 OFF Your First Box, $80 OFF Your First Two Boxes, or $100 OFF Your First Four Boxes - Your Choice of Meat & Veggie, Veggie or Family-Friendly Recipes Available",
+        "city": null,
+        "bought": 76,
+        "prev-price": 93,
+        "price": 43
+      },
+      {
+        "productName": "Hampton Downs Motorsport Park",
+        "description": "High Speed Driving Fun at Hampton Downs - Options for Lamborghini Hot Lap, a High Speed Lexus Ride, or a V8 Mustang or Camaro Self Drive Experience - Valid from 1st Feb 2022",
+        "city": "Hampton Downs",
+        "bought": 215,
+        "prev-price": null,
+        "price": 85
+      },
+      {
+        "productName": "Kawau Cruises",
+        "description": "Adult Return Pass on the Kawau Royal Mail Run Super Cruise - Options for Two Adults, a Child Pass, or to incl. a BBQ Lunch On Board",
+        "city": "Sandspit",
+        "bought": 722,
+        "prev-price": 88,
+        "price": 44
+      },
+      {
+        "productName": "GameOn Arcade",
+        "description": "$20 GameOn Arcade Package for One Person incl. $15 Game Credit Usable on any Game & Three Karaoke Song Passes",
+        "city": "Auckland Central",
+        "bought": 349,
+        "prev-price": 20,
+        "price": 10
+      },
+      {
+        "productName": "Ponsonby Dental Boutique",
+        "description": "Dental Implant Consultation with 3D Scan",
+        "city": "Ponsonby",
+        "bought": null,
+        "prev-price": 500,
+        "price": 399
+      },
+      {
+        "productName": "Urban Global Ltd",
+        "description": "Berrcom Digital Thermometer - Elsewhere Pricing $92.40",
+        "city": null,
+        "bought": 733,
+        "prev-price": null,
+        "price": 39
+      },
+      {
+        "productName": "Parakai Springs",
+        "description": "Adult Entry to Parakai Springs - Options for Child, Toddler, Senior Entry & Family Admission",
+        "city": "Parakai",
+        "bought": 3473,
+        "prev-price": 28,
+        "price": 15
+      },
+      {
+        "productName": "Vivo Hair and Skin Clinic",
+        "description": "Full Head of Foils incl. Colour-Lock Treatment, Toner, Shampoo Service, Head Massage, Style Cut & Blow Dry Finish",
+        "city": null,
+        "bought": 9,
+        "prev-price": 319,
+        "price": 179
+      }
+    ]
+  },
+  {
+    "title": "Collections",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNdlqf9cBKzg3J_9TQoZcMo98vj69pMBNU0w&usqp=CAU",
+    "products": [
+      "Valentine's Day - Gifts For Her",
+      "Valentine's Day - Gifts For Him",
+      "We.ve Got You Coverd",
+      "Free Shipping"
+    ]
+  },
+  {
+    "title": "Escapes",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREtPqYd0GaVz1EsoDjXtS4cTGfkisbbNbvVw&usqp=CAU",
+    "products": [
+      {
+        "productName": "Hanmer Springs Hotel",
+        "description": "1-Night 4-Star Inclusive Hanmer Springs Getaway for 2 incl. Entry to Thermal Pools, Daily Breakfast, Late Checkout & Free Parking - Family Options Available incl. 2-Course Dinner & Welcome Drinks - Options for up to 3 Nights - Valid Sunday to Thursday",
+        "city": "Christchurch",
+        "bought": 806,
+        "prev-price": 420,
+        "price": 189
+      },
+      {
+        "productName": "Powderhorn Chateau",
+        "description": "Two-Night Old Coach Road Bike Trail Package for Two People incl. Accommodation in a Queen Suite, Daily Breakfast, $40 Food & Drinks Voucher, Pool Access, Early Check-In & Late Checkout - Option to incl. Standard or Electric Bike Hire & up to Three Nights",
+        "city": "Manawatu - Wanganui",
+        "bought": 661,
+        "prev-price": 750,
+        "price": 349
+      },
+      {
+        "productName": "Kawau Cruises",
+        "description": "Adult Return Pass on the Kawau Royal Mail Run Super Cruise - Options for Two Adults, a Child Pass, or to incl. a BBQ Lunch On Board",
+        "city": "Queenstowe",
+        "bought": 354,
+        "prev-price": 402,
+        "price": 179
+      },
+      {
+        "productName": "Rydges Formosa Golf Resort",
+        "description": "One-Night 4-Star Rydges Formosa Golf Resort Getaway incl. Round of Golf, Welcome Drinks on Arrival, 50% off Breakfast, 20% of all Food & Beverages Purchased, Parking & WiFi - Options to Stay in Deluxe or Two-Bedroom Villa and for up to Three-Night Stays",
+        "city": "Auckland Central",
+        "bought": 124,
+        "prev-price": 125,
+        "price": 75
+      }
+    ]
+  },
+  {
+    "title": "Activities, Events & Outdoors",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4bTeiLko-2nHKPe3G6mp0j4C-TSIcAYZ6mQ&usqp=CAU",
+    "products": [
+      {
+        "productName": "Aluminium Tactical Shovel",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est dolore porro maiores nulla. Velit assumenda accusamus odit excepturi incidunt, neque magnam aspernatur minima nam voluptates architecto, dolor eos temporibus atque.",
+        "city": "temporibus atque",
+        "bought": 324,
+        "prev-price": 543,
+        "price": 123    
+      },
+      {
+        "productName": "Powderhorn Chateau",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est dolore porro maiores nulla. Velit assumenda accusamus odit excepturi incidunt, neque magnam aspernatur minima nam voluptates architecto, dolor eos temporibus atque.",
+        "city": "Manawatu - Wanganui",
+        "bought": 661,
+        "prev-price": 750,
+        "price": 349
+      },
+      {
+        "productName": "accusamus odit",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est dolore porro maiores nulla. Velit assumenda accusamus odit excepturi incidunt, neque magnam aspernatur minima nam voluptates architecto, dolor eos temporibus atque.",
+        "city": "assumenda",
+        "bought": 523,
+        "prev-price": 534,
+        "price": 213
+      },
+      {
+        "productName": "met consectetur adipisicing",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est dolore porro maiores nulla. Velit assumenda accusamus odit excepturi incidunt, neque magnam aspernatur minima nam voluptates architecto, dolor eos temporibus atque.",
+        "bought": 124,
+        "prev-price": 125,
+        "price": 75
+      }
+    ]
+  }
+]
